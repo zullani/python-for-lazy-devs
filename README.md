@@ -1,4 +1,4 @@
-# Awesome Python ✨
+# Python For Lazy Devs ✨
 
 A collection of awesome Python frameworks, libraries, software, programs and resources.
 
