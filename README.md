@@ -58,7 +58,7 @@ A collection of awesome Python frameworks, libraries, software, programs and res
 
 | Script                                   | Link                                                                                                                                                     | Description                                                                                                                                                       |
 | ---------------------------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Black Hat Python                         | [Black Hat Python](https://github.com/DhanushNehru/python-for-lazy-devs/Scripts/tree/main/Black%20Hat%20Python)                                                      | Source code from the book Black Hat Python     
+| Black Hat Python                         | [Black Hat Python](https://github.com/DhanushNehru/python-for-lazy-devs/tree/main/Scripts/Black%20Hat%20Python)                                                      | Source code from the book Black Hat Python     
 
 ---
 
